@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad Nabeel
-- 👀 I’m interested in MERN Satck
+- 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nabeel65dev@gmail.com
